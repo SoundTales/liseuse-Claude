@@ -1,0 +1,14 @@
+  const theme = {
+    light: {
+      background: '#FAF9F6',
+      text: '#2A2A29',
+      accent: '#F5FF85',
+      muted: '#666664'
+    },
+    dark: {
+      background: '#2A2A29',
+      text: '#FAF9F6',
+      accent: '#F5FF85',
+      muted: '#E6E6E0'
+    }
+  };
